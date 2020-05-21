@@ -1,1 +1,1 @@
-{ "version":"5", "project":2, "update-d":"Fixes auto screen detection issues and adds better crash logs" }
+{ "version":"6", "project":2, "update-d":"Fixes auto screen detection issues and adds better crash logs" }
