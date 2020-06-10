@@ -1,1 +1,1 @@
-{ "version":"7", "project":2, "update-d":"Adds YouTube region support for UK, US and AU. This update also fixes the youtube api glitches. Better error responses." }
+{ "version":"8", "project":2, "update-d":"Adds YouTube region support for UK, US and AU. This update also fixes the youtube api glitches. Better error responses." }
